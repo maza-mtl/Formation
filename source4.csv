@@ -1,0 +1,12 @@
+ID,ProductID,Description,Catégorie,NomFournisseur,CodeFournisseur,NomFabricant,CodeFabricant
+101,AB123,Disque freinage avant,Freins,Fournisseur X,FA001,Fabricant A,FA001
+102,XY987,Plaquette frein arrière,Freins,Fournisseur Y,FB002,Fabricant B,FB002
+103,CD456,Filtre air performance,Moteur,Fournisseur Z,FC003,Fabricant C,FC003
+104,CD457,Bougie allumage haute performance,Moteur,Fournisseur W,FD004,Fabricant D,FD004
+105,EF789,Amortisseur sport avant,Suspension,Fournisseur V,FE005,Fabricant E,FE005
+106,GH012,Pompe eau haute performance,Moteur,Fournisseur G,FG006,Fabricant G,FG006
+107,IJ112,Alternateur premium,Moteur,Fournisseur G,FG007,Fabricant H,FH007
+108,KL123,Radiateur haute capacité,Moteur,Fournisseur H,FH008,Fabricant I,FI008
+109,MN134,Tuyau échappement sport,Échappement,Fournisseur I,FI009,Fabricant J,FJ009
+110,OP145,Joint culasse renforcé,Moteur,Fournisseur J,FJ010,Fabricant K,FK010
+111,PQ156,Vileb
