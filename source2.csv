@@ -1,0 +1,7 @@
+ID,ProductID,Description,Catégorie,NomFournisseur,CodeFournisseur,NomFabricant,CodeFabricant
+101,AB123,Disque freinage avant,Freins,Fournisseur X,FX001,Fabricant A,FA001
+102,XY987,Plaquette frein arrière,Freins,Fournisseur Y,FY002,Fabricant B,FB002
+103,CD456,Filtre air performance,Moteur,Fournisseur Z,FZ003,Fabricant C,FC003
+104,CD457,Bougie allumage haute performance,Moteur,Fournisseur W,FW004,Fabricant D,FD004
+105,EF789,Amortisseur sport avant,Suspension,Fournisseur V,FV005,Fabricant E,FE005
+106,GH012,Pompe à eau,Moteur,Fournisseur G,FG006,Fabricant G,FG006
