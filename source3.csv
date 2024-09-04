@@ -1,0 +1,21 @@
+ID,ProductID,Description,Catégorie,NomFournisseur,CodeFournisseur,NomFabricant,CodeFabricant
+1,AB123,Disque de frein avant,Système de freinage,Fournisseur A,FA-001,Fabricant X,FX001
+2,AB124,Plaquette de frein arrière,Système de freinage,Fournisseur B,FB 002,Fabricant Y,FY002
+3,CD456,Filtre à air,Moteur,Fournisseur C,FC_003,Fabricant Z,FZ003
+4,CD457,Bougie d'allumage,Moteur,Fournisseur D,FD004,Fabricant W,FW004
+5,EF789,Amortisseur avant,Suspension,Fournisseur E,FE-005,Fabricant V,FV005
+6,GH101,Pompe à eau,Moteur,Fournisseur F,FG 006,Fabricant G,FG006
+7,IJ112,Alternateur,Moteur,Fournisseur G,FG_007,Fabricant H,FH007
+8,KL123,Radiateur,Moteur,Fournisseur H,FH 008,Fabricant I,FI008
+9,MN134,Tuyau d'échappement,Échappement,Fournisseur I,FI_009,Fabricant J,FJ009
+10,OP145,Joint de culasse,Moteur,Fournisseur J,FJ 010,Fabricant K,FK010
+11,PQ156,Vilebrequin,Moteur,Fournisseur K,FK_011,Fabricant L,FL011
+12,QR167,Culasse,Moteur,Fournisseur L,FL 012,Fabricant M,FM012
+13,RS178,Lampe frontale,Éclairage,Fournisseur M,FM_013,Fabricant N,FN013
+14,TU189,Feu arrière,Éclairage,Fournisseur N,FN 014,Fabricant O,FO014
+15,VW200,Clignotant,Éclairage,Fournisseur O,FO_015,Fabricant P,FP015
+16,XY211,Rétroviseur,Carrosserie,Fournisseur P,FP 016,Fabricant Q,FQ016
+17,YZ222,Aile avant,Carrosserie,Fournisseur Q,FQ_017,Fabricant R,FR017
+18,ZA233,Capot,Carrosserie,Fournisseur R,FR 018,Fabricant S,FS018
+19,BC244,Porte latérale,Carrosserie,Fournisseur S,FS_019,Fabricant T,FT019
+20,CD255,Pneu été,Roues,Fournisseur T,FT 020,Fabricant U,FU020
