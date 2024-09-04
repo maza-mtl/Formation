@@ -1,0 +1,6 @@
+ID,ProductID,Description,Catégorie,NomFournisseur,CodeFournisseur,NomFabricant,CodeFabricant
+1,AB123,Disque de frein avant,Système de freinage,Fournisseur A,FA001,Fabricant X,FX001
+2,AB124,Plaquette de frein arrière,Système de freinage,Fournisseur B,FB002,Fabricant Y,FY002
+3,CD456,Filtre à air,Moteur,Fournisseur C,FC003,Fabricant Z,FZ003
+4,CD457,Bougie d'allumage,Moteur,Fournisseur D,FD004,Fabricant W,FW004
+5,EF789,Amortisseur avant,Suspension,Fournisseur E,FE005,Fabricant V,FV005
